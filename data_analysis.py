@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Basit bir veri seti oluşturuyoruz
+# Creating a simple dataset
 data = {
     'Name': ['Ali', 'Ayşe', 'Mehmet', 'Fatma'],
     'Age': [25, 30, 22, 35],
@@ -9,7 +9,7 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Ortalama maaşı hesapla
+# Calculating the average salary
 average_salary = df['Salary'].mean()
 
 print(f'Average Salary: {average_salary}')
