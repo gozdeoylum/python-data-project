@@ -1,2 +1,4 @@
-# python-data-project
-Basic data analysis project using Python and pandas
+# First Data Analysis Project
+
+This project demonstrates basic data analysis using Python and pandas.
+
